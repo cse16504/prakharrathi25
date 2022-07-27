@@ -5,7 +5,7 @@
   <code>
     <a href="https://www.linkedin.com/in/dileep-kanumuri-/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://prakharrathi25.netlify.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
-  <code><a href="pr440@snu.edu.in" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
+  <code><a href="dileepkanumuri1998@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
   <code><a href="https://twitter.com/prakharrathi14" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h5>
