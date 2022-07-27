@@ -4,14 +4,12 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/dileep-kanumuri-/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://prakharrathi25.netlify.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
-  
   <code><a href="https://twitter.com/prakharrathi14" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   
 </h5>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;Born+too+early+to+explore+the+Galaxy%2C;+Born+just+in+time+to+explore+Data.">
   </a>
 </h1>
 
